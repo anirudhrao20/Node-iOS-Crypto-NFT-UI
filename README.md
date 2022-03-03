@@ -9,7 +9,7 @@ Clone the repository.
 
 ## Usage
 
-You will need to change the signed account. 
+You will need to change the account used to sign, provision, and run the app. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
